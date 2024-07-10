@@ -46,3 +46,15 @@ C:/Users/Usuario/Desktop/Tienda-Online-Cliente/Aplicacion/obj/Debug/net7.0/ref/A
 /Users/macbook/Desktop/Tienda-Online-Cliente/Aplicacion/obj/Debug/net7.0/Aplicacion.pdb
 /Users/macbook/Desktop/Tienda-Online-Cliente/Aplicacion/obj/Debug/net7.0/ref/Aplicacion.dll
 /Users/macbook/Desktop/Tienda-Online-Cliente/Aplicacion/obj/Debug/net7.0/Aplicacion.sourcelink.json
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/bin/Debug/net7.0/Aplicacion.deps.json
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/bin/Debug/net7.0/Aplicacion.dll
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/bin/Debug/net7.0/Aplicacion.pdb
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/obj/Debug/net7.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfo.cs
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/obj/Debug/net7.0/Aplicacion.sourcelink.json
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/obj/Debug/net7.0/Aplicacion.dll
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/obj/Debug/net7.0/refint/Aplicacion.dll
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/obj/Debug/net7.0/Aplicacion.pdb
+/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/obj/Debug/net7.0/ref/Aplicacion.dll
