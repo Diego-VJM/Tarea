@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BzRQxU1E3gw=",
+  "dgSpecHash": "wEUTN5AKweY=",
   "success": true,
-  "projectFilePath": "/Users/macbook/Desktop/Tienda-Online-Cliente/Api/Api.csproj",
+  "projectFilePath": "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Api/Api.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/carter/7.2.0/carter.7.2.0.nupkg.sha512",
     "/Users/macbook/.nuget/packages/fluentvalidation/11.0.1/fluentvalidation.11.0.1.nupkg.sha512",

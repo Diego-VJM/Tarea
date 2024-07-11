@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Desktop/Tienda-Online-Cliente/Api/Api.csproj": {}
+    "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Api/Api.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Desktop/Tienda-Online-Cliente/Api/Api.csproj": {
+    "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Api/Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Desktop/Tienda-Online-Cliente/Api/Api.csproj",
+        "projectUniqueName": "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Api/Api.csproj",
         "projectName": "Api",
-        "projectPath": "/Users/macbook/Desktop/Tienda-Online-Cliente/Api/Api.csproj",
+        "projectPath": "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Api/Api.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Desktop/Tienda-Online-Cliente/Api/obj/",
+        "outputPath": "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/macbook/Desktop/Tienda-Online-Cliente/Aplicacion/Aplicacion.csproj": {
-                "projectPath": "/Users/macbook/Desktop/Tienda-Online-Cliente/Aplicacion/Aplicacion.csproj"
+              "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/Aplicacion.csproj": {
+                "projectPath": "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/Aplicacion.csproj"
               }
             }
           }
@@ -117,14 +117,14 @@
         }
       }
     },
-    "/Users/macbook/Desktop/Tienda-Online-Cliente/Aplicacion/Aplicacion.csproj": {
+    "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Desktop/Tienda-Online-Cliente/Aplicacion/Aplicacion.csproj",
+        "projectUniqueName": "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "/Users/macbook/Desktop/Tienda-Online-Cliente/Aplicacion/Aplicacion.csproj",
+        "projectPath": "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/Aplicacion.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Desktop/Tienda-Online-Cliente/Aplicacion/obj/",
+        "outputPath": "/Users/macbook/Desktop/Tarea/TiendaOnline-Cliente/Aplicacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"
